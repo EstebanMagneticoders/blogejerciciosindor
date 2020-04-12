@@ -1,0 +1,24 @@
+{
+  "name": "mi-primer-api-rest",
+  "version": "0.0.1",
+  "description": "Es un CRUD de articulos de ejercicio en casa, con node y mongo. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EstebanMagneticoders/blogejerciciosindor.git"
+  },
+  "keywords": [
+    "blog",
+    "node",
+    "javascript"
+  ],
+  "author": "magneticoders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EstebanMagneticoders/blogejerciciosindor/issues"
+  },
+  "homepage": "https://github.com/EstebanMagneticoders/blogejerciciosindor#readme"
+}
